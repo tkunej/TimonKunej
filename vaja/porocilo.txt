@@ -1,1 +1,2 @@
 1. Status je unknown
+2. Status je modified
